@@ -34,7 +34,7 @@ const Projects = () => (
           A minimal task manager built using HTML, CSS, and JavaScript.
           Features include add/delete tasks, mark as complete, and persistent storage using localStorage.
         </p>
-        <a href="https://github.com/Meghana087/ToDoList.git" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://meghana087.github.io/ToDoList/" target="_blank" rel="noreferrer">GitHub</a>
       </div>
     </div>
   </section>
