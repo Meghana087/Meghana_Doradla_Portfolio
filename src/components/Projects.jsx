@@ -21,7 +21,7 @@ const Projects = () => (
         />
         <h3>Disease Outbreak Predictor</h3>
         <p>Python + Pandas + MySQL for health data predictions.</p>
-        <a href="https://meghana087-prediction-of-disease-outbreaks-app-6zkagq.streamlit.app/" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://meghana087-prediction-of-disease-outbreaks-app-6zkagq.streamlit.app/" target="_blank" rel="noreferrer">View Project</a>
       </div>
       <div className="card">
         <img
@@ -34,7 +34,7 @@ const Projects = () => (
           A minimal task manager built using HTML, CSS, and JavaScript.
           Features include add/delete tasks, mark as complete, and persistent storage using localStorage.
         </p>
-        <a href="https://meghana087.github.io/ToDoList/" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://meghana087.github.io/ToDoList/" target="_blank" rel="noreferrer">View Project</a>
       </div>
     </div>
   </section>
