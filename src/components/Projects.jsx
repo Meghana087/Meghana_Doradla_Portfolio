@@ -21,7 +21,7 @@ const Projects = () => (
         />
         <h3>Disease Outbreak Predictor</h3>
         <p>Python + Pandas + MySQL for health data predictions.</p>
-        <a href="https://github.com/Meghana087/Prediction-of-Disease-Outbreaks" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://meghana087-prediction-of-disease-outbreaks-app-6zkagq.streamlit.app/" target="_blank" rel="noreferrer">GitHub</a>
       </div>
       <div className="card">
         <img
