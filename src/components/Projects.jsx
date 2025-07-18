@@ -6,12 +6,14 @@ const Projects = () => (
     <div className="project-grid">
       <div className="card">
       <img
-          src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fpredicting-salary-using-data-science-a-comprehensive-analysispdf%2F267329501&psig=AOvVaw0KbOJ8j7P4P5fa_zOZuw2s&ust=1752926335405000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMD9vNetxo4DFQAAAAAdAAAAABAE"
+          src="https://storage.googleapis.com/kaggle-datasets-images/2973025/5119031/581d3c4f13b517b78da588da25c07092/dataset-thumbnail.jpg?t=2023-03-07-02-46-31"
           alt="employee salary"
           className="project-image"
         />
         <h3>EMPLOYEE SALARY PREDICTION</h3>
         <p>Predicting the salary of an employee by taking inputs as age , workclass , hours per week etc.</p>
+        <a href="https://employeesalary-prediction.streamlit.app/" target="_blank" rel="noreferrer">View Project</a>
+
       </div>
       <div className="card">
       <img
