@@ -41,13 +41,14 @@ const Projects = () => (
 
        <div className="card">
         <img
-          src="https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0gGEZ11L9351lwv5oj1qieLzIfxNzkQLq_Q&s"
           alt="PrimeStore"
           className="project-image"
         />
         <h3>PrimeStore - Ecommerce</h3>
         <p>
-         Full Stack e-commerce website using Python,Django,MySQL,HTML,CSS,Javascript and django rest framework. 
+         Full Stack e-commerce website using Python,Django,MySQL,HTML,CSS,
+         Javascript and django rest framework. 
         </p>
         <a href="" target="_blank" rel="noreferrer">View Project</a>
       </div>
