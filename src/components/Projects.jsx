@@ -10,7 +10,7 @@ const Projects = () => (
           alt="employee salary"
           className="project-image"
         />
-        <h3>EMPLOYEE SALARY PREDICTION</h3>
+        <h3>Employee Salary Prediction</h3>
         <p>Predicting the salary of an employee by taking inputs as age , workclass , hours per week etc.</p>
         <a href="https://employeesalary-prediction.streamlit.app/" target="_blank" rel="noreferrer">View Project</a>
 
@@ -37,6 +37,19 @@ const Projects = () => (
           Features include add/delete tasks, mark as complete, and persistent storage using localStorage.
         </p>
         <a href="https://meghana087.github.io/ToDoList/" target="_blank" rel="noreferrer">View Project</a>
+      </div>
+
+       <div className="card">
+        <img
+          src="https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt="PrimeStore"
+          className="project-image"
+        />
+        <h3>PrimeStore - Ecommerce</h3>
+        <p>
+         Full Stack e-commerce website using Python,Django,MySQL,HTML,CSS,Javascript and django rest framework. 
+        </p>
+        <a href="" target="_blank" rel="noreferrer">View Project</a>
       </div>
     </div>
   </section>
