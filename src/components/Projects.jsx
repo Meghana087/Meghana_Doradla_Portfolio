@@ -50,7 +50,7 @@ const Projects = () => (
          Full Stack e-commerce website using Python,Django,MySQL,HTML,CSS,
          Javascript and django rest framework. 
         </p>
-        <a href="" target="_blank" rel="noreferrer">View Project</a>
+        <a href="https://primestore-ecommerce.up.railway.app" target="_blank" rel="noreferrer">View Project</a>
       </div>
     </div>
   </section>
